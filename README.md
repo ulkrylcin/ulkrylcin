@@ -57,13 +57,13 @@ I'm Ülker Yalçın, a Front-end Developer 🚀🚀. I am also student. Learning
 🔗 &nbsp;**Connect With Me**
   
 <p><a href="https://github.com/ulkrylcin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
- <a href="https://twitter.com/color3pitch" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://twitter.com/ulkr3y" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/color3pitch-b6a359260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
 
 
 [youtube]: https://www.youtube.com/@color3pitch
-[twitter]: https://twitter.com/color3pitch
+[twitter]: https://twitter.com/ulkr3y
 [linkedin]: https://www.linkedin.com/in/color3pitch-b6a359260/
 
 
